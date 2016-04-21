@@ -1,1 +1,1 @@
-# payponse-api
+# The fastest, most reliable, easiest payment system.
